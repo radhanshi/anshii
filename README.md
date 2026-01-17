@@ -18,7 +18,7 @@ A simple and clean Flask-based web app that recommends books to users based on c
 - **Frontend**: HTML, CSS, Bootstrap
 - **Backend**: Python (Flask)
 - **ML**: Pandas, Scikit-learn, Numpy
-- **Deployment**: GitHub + Replit (Free hosting)
+- **Deployment**: GitHub + Replit (Free hosting).
 
 ---
 
