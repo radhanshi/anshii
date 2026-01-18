@@ -22,5 +22,5 @@ A simple and clean Flask-based web app that recommends books to users based on c
 
 ---
 
-## 📁 Project Structure.
+
 
